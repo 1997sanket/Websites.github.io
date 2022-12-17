@@ -168,6 +168,7 @@ html,body {
 
 .tour-row {
     border-bottom: 1px solid black;
+    margin-right: 50px;
     padding-bottom: 1em;
     margin-bottom: 1em;
 }
